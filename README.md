@@ -48,18 +48,19 @@ https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDis
 https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/Art/5_appleconfigurator2_2x.png
 
 5. Choose the iOS App file from the repo. It’s in the root directory, and it’s called Graffiti.ipa
-## Tutorial
-- When you open the app you while be prompted to sign with an Google Account 
-- You will then be prompted to pick a username because you are a new user. You cannot change your username once you have created one. 
-- You will then be taken to the Newsfeed page where you will see all posts within the 1 mile radius 
-- In the top right corner you can create a new post by tapping the compose button.
-  - You have two options for a new post: Text and Photo
-- On the bottom of the screen their are tabs to take you to the map view and your profile 
-- In map view there are pins place everywhere that a post has been uploaded and a circle that denotes the radius where you’ll be able to view posts in the feed
-- On your profile you can see your profile picture, your bio, and your post History 
-  - You also have the ability to edit your profile information and sign out of the app. 
-## Functionality
 
+## Tutorial
+* When you open the app you while be prompted to sign with an Google Account 
+* You will then be prompted to pick a username because you are a new user. You cannot change your username once you have created one. 
+* You will then be taken to the Newsfeed page where you will see all posts within the 1 mile radius 
+* In the top right corner you can create a new post by tapping the compose button.
+  * You have two options for a new post: Text and Photo
+* On the bottom of the screen their are tabs to take you to the map view and your profile 
+* In map view there are pins place everywhere that a post has been uploaded and a circle that denotes the radius where you’ll be able to view posts in the feed
+* On your profile you can see your profile picture, your bio, and your post History 
+  * You also have the ability to edit your profile information and sign out of the app. 
+
+## Functionality
 **Sign In**: sign in with google. If you have a google profile picture, it your profile picture on Grafitti will be automatically set to that picture
 **Feed**: Pull to refresh the feed. It’s slow because we load all of the images. 
 
