@@ -21,12 +21,13 @@ If you have an iPhone:
 1. Clone this repo https://github.com/kylej1994/graffiti_classmate_view (contact Kyle for access)
 2. On the Mac, navigate to graffiti_classmate_view > Graffiti. (Screenshot below shows what you should see):
 3. Open Graffiti.xcworkspace (by double clicking). This will open Xcode. 
-https://d2mxuefqeaa7sj.cloudfront.net/s_B4A3E709240AA2A5A2720EBAE4DBFDC06F4C2268776FCFF1CE8D76622B726E4F_1489017796696_Screen+Shot+2017-03-08+at+6.02.08+PM.png
+![image](https://d2mxuefqeaa7sj.cloudfront.net/s_B4A3E709240AA2A5A2720EBAE4DBFDC06F4C2268776FCFF1CE8D76622B726E4F_1489017796696_Screen+Shot+2017-03-08+at+6.02.08+PM.png)
+
 
 
 
 1. Before running the app, choose a device from the dropdown (where the screenshot says Generic iOS device). Choose iPhone 7 Plus from the dropdown (we also support 6S devices, and the 5S and SE). 
-https://d2mxuefqeaa7sj.cloudfront.net/s_B4A3E709240AA2A5A2720EBAE4DBFDC06F4C2268776FCFF1CE8D76622B726E4F_1489018494276_Screen+Shot+2017-03-08+at+6.14.26+PM.png
+![image](https://d2mxuefqeaa7sj.cloudfront.net/s_B4A3E709240AA2A5A2720EBAE4DBFDC06F4C2268776FCFF1CE8D76622B726E4F_1489018494276_Screen+Shot+2017-03-08+at+6.14.26+PM.png)
 
 1. Hold down the option key + click the play button. Choose `release` from the Build Configuration dropdown. Then run the app. This will launch the simulator.
 2. With the simulator selected, go to the menu bar. Debug > Location > Custom Location and use `Latitude: 41.792296`  and `Longitude: -87.59951` (you can choose other locations, but you won’t be able to see posts in the feed except for your own unless someone else happened to post in those locations). Because you’re setting these coordinates after the app has launched, you might have to pull on the feed to refresh with the new coordinates (our app does not refresh automatically as you move).
